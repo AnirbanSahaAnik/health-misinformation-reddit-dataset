@@ -1,25 +1,29 @@
 # Health Misinformation Reddit Dataset
 
-This dataset contains a collection of Reddit posts that include health-related misinformation claims. It was curated for research on misinformation detection, counterspeech generation, and retrieval-augmented language model evaluation.
+A curated dataset of health misinformation posts on **COVID-19**, **influenza**, and **HIV**, collected from Reddit. Posts were annotated using a combination of classifier-assisted labeling and expert validation. This dataset supports research presented in the paper _"Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation"_. [Accepted at the Second Conference on Language Modeling (COLM 2025)].
 
 ## 📁 Dataset File
 
-**Filename**: `Health_Misinformation_reddit_Dataset.csv`
+**Filename**: `data/Health_Misinformation_Reddit_Dataset.csv`
 
 ### Columns:
 
 | Column Name | Description |
 |-------------|-------------|
 | `id`        | Unique identifier of each Reddit post |
-| `title`     | The misinformation post content |
+| `title`     | The misinformation post content (e.g., Reddit title or main claim) |
+
+---
 
 ## 📜 License
 
 This dataset is distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
+---
+
 ## 📚 Citation
 
-If you use this dataset, please cite:
+If you use this dataset in your work, please cite:
 
 ```bibtex
 @article{anik2025multi,
@@ -28,4 +32,15 @@ If you use this dataset, please cite:
   journal={arXiv preprint arXiv:2507.07307},
   year={2025}
 }
+```
 
+[View the paper on arXiv →](https://arxiv.org/abs/2507.07307)
+
+---
+
+## 👨‍💻 Contact
+
+For questions or collaborations, please contact:  
+**Anirban Saha Anik**  
+📧 AnirbanSahaAnik@my.unt.edu  
+University of North Texas
