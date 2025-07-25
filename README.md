@@ -10,8 +10,8 @@ A curated dataset of health misinformation posts on **COVID-19**, **influenza**,
 
 | Column Name | Description |
 |-------------|-------------|
-| `id`        | Unique identifier of each Reddit post |
-| `text`     | The misinformation post content (e.g., Reddit title or main claim) |
+| `idx`      | Index for each Reddit post |
+| `text`     | The misinformation post content |
 
 ---
 
