@@ -67,8 +67,7 @@ If you use this dataset, please cite the relevant paper(s) below.
 ### 🔹 Main Dataset & Multi-Agent Framework (COLM 2025)
 
 ```bibtex
-@inproceedings{
-  anik2025multiagent,
+@inproceedings{anik2025multiagent,
   title={Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech Against Health Misinformation},
   author={Anirban Saha Anik and Xiaoying Song and Elliott Wang and Bryan Wang and Bengisu Yarimbas and Lingzi Hong},
   booktitle={Second Conference on Language Modeling},
